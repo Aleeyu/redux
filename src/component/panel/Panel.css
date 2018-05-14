@@ -1,0 +1,15 @@
+.panel{
+    height: 100vh;
+    padding: 0 !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.panel-content{
+    flex:1;
+    overflow-y: scroll
+}
+.am-tab-bar {
+    height: auto !important;
+    overflow: hidden;
+}
